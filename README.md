@@ -4,20 +4,7 @@ I'm a dedicated **Senior WordPress Developer** with over 3 years of hands-on exp
 
 Whether you're a business owner, agency, or startup—I help bring digital ideas to life through clean design, smooth user experience, and SEO-friendly builds.
 
----
 
-### 💼 What I Do
-
-- 🔧 Custom WordPress Website Development  
-- 🎯 Landing Pages (HTML, CSS, JavaScript, React)  
-- 🛒 WooCommerce Setup & Customization  
-- 🚀 Website Speed Optimization & SEO Basics  
-- 🔐 Security Setup, Malware Removal & Maintenance  
-- 💳 Payment Gateway Integration (Stripe, PayPal)  
-- 📆 Appointment Booking & API Integrations  
-- 🛠 ULEZ Zone Detection, Car Data & Camera Integrations
-
----
 
 ### 🤝 Let’s Collaborate
 

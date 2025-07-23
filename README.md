@@ -62,7 +62,9 @@ From landing pages to full-fledged apps, I focus on **clean code**, **modern UI/
 
 ---
 
-### 💬 Quote I Believe In
+<h3>💬 Quote I Believe In</h3>
 
-> “First, solve the problem. Then, write the code.”  
-> — *John Johnson*
+<div style="background-color: #cceeff; padding: 15px; border-radius: 10px; font-style: italic; font-size: 16px; color: #333;">
+  “First, solve the problem. Then, write the code.”<br>
+  <strong>— John Johnson</strong>
+</div>

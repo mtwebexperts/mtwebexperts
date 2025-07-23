@@ -1,35 +1,43 @@
 # 👋 Hi, I'm Tanzeel Yousef
 
-I'm a dedicated **Senior WordPress Developer** with over 3 years of hands-on experience crafting fast, functional, and visually stunning websites. I specialize in **Elementor**, **WooCommerce**, and **custom coding** (HTML, CSS, JavaScript, PHP).
+I'm a passionate **Frontend Developer** with expertise in building responsive, dynamic, and scalable web applications using **React**, **JavaScript**, **HTML**, and **CSS**. I love creating smooth user experiences, optimized components, and pixel-perfect designs that perform well across devices.
 
-Whether you're a business owner, agency, or startup—I help bring digital ideas to life through clean design, smooth user experience, and SEO-friendly builds.
-
----
-
-### 💼 What I Do
-
-- 🔧 Custom WordPress Website Development  
-- 🎯 Landing Pages (HTML, CSS, JavaScript, React)  
-- 🛒 WooCommerce Setup & Customization  
-- 🚀 Website Speed Optimization & SEO Basics  
-- 🔐 Security Setup, Malware Removal & Maintenance  
-- 💳 Payment Gateway Integration (Stripe, PayPal)  
-- 📆 Appointment Booking & API Integrations  
-- 🛠 ULEZ Zone Detection, Car Data & Camera Integrations
+From landing pages to full-fledged apps, I focus on **clean code**, **modern UI/UX**, and **performance optimization**.
 
 ---
 
-### 🤝 Let’s Collaborate
+### ⚛ Tech Stack
 
-If you're looking to:
-- Build a high-converting **landing page** in HTML, CSS, JS, or React  
-- Create a fully customized **WordPress site**  
-- Fix, migrate, or secure your current website  
-👉 **I'm just a message away!**
+- React, React Router, Hooks, Context API  
+- JavaScript (ES6+), HTML5, CSS3, Tailwind  
+- Git, GitHub, NPM, Vite, Webpack  
+- Firebase, REST APIs, Form Validation  
+- Basic backend (Node.js, Express)  
+- ⬇️ Minimal experience with: WordPress, PHP, Elementor
 
 ---
 
-### 🌐 My Website
+### 💼 Projects I Work On
+
+- ⚛ Dynamic React Applications  
+- 🎯 Responsive Landing Pages  
+- 📱 Frontend Dashboards & Admin Panels  
+- 🧠 API-Driven UI Components  
+- 🌐 SEO-Friendly Static Sites  
+- 🔧 Real-time Form Handling & Validations
+
+---
+
+### 🚀 Goals
+
+- Master advanced React patterns & performance tuning  
+- Explore Next.js and full-stack JavaScript development  
+- Contribute to open-source projects  
+- Help businesses grow with stunning frontend solutions
+
+---
+
+### 🌐 My Portfolio Website
 
 🔗 [https://mtwebexperts.site](https://mtwebexperts.site)
 
@@ -45,11 +53,11 @@ If you're looking to:
 
 ---
 
-### 📬 Contact Info
+### 📬 Contact
 
 - 📧 Email: [mtwebexperts.site@gmail.com](mailto:mtwebexperts.site@gmail.com)  
 - 📱 WhatsApp: 0318-9046142  
-- 📍 Location: Dera Ismail Khan, Pakistan  
+- 📍 Dera Ismail Khan, Pakistan  
 - 🧑‍💻 Pronouns: He/Him
 
 ---
